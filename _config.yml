@@ -1,6 +1,9 @@
 title: Portfolio
 description: Petit portfolio deviendra grand avec le temps
-show_downloads: "false"
+show_downloads: "true"
+
+github:
+  zip_url: https://github.com/lsenecal/lsenecal.github.io/raw/master/Dungeon_Plateform.zip
 
 content: Test
 

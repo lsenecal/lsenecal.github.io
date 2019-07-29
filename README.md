@@ -15,25 +15,21 @@ Ce n'est pas proprement un jeu, mais plutôt une demo technique de ce que j'appr
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen2.png?raw=true" alt="" width="500"/>
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen3.png?raw=true" alt="" width="500"/>
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen4.png?raw=true" alt="" width="500"/>
-![](https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen.png?raw=true)
-![](https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen2.png?raw=true)
-![](https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen3.png?raw=true)
-![](https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen4.png?raw=true)
 
 [Télécharger le zip](https://github.com/lsenecal/lsenecal.github.io/raw/master/Dungeon_Plateform.zip)
 
 ## Dice Tower
 Cet executable est la conclusion de la recherche d'un projet cours et fonctionnel. En tant que roliste, une tour de dés est très pratique et j'ai initié une tour de dé en Unity.
 
-![Screenshot DiceTower](https://github.com/lsenecal/lsenecal.github.io/blob/master/DiceTowerScreen.png?raw=true)
+<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DiceTowerScreen.png?raw=true" alt="" width="500"/>
 
 [Télécharger le zip](https://github.com/lsenecal/lsenecal.github.io/raw/master/DiceTower.zip)
 
 ## Strategy Test
 L'idée de départ de test technique est un jeu de stratégie tout par tour de type wargame (Warhammer). 
 
-![Screenshot DiceTower](https://github.com/lsenecal/lsenecal.github.io/blob/master/ScreenCrossLine.png?raw=true)
-![Screenshot DiceTower](https://github.com/lsenecal/lsenecal.github.io/blob/master/ScreenCrossLine2.png?raw=true)
+<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/ScreenCrossLine.png?raw=true" alt="" width="500"/>
+<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/ScreenCrossLine2.png?raw=true" alt="" width="500"/>
 
 [Télécharger le zip](https://github.com/lsenecal/lsenecal.github.io/raw/master/CrossLine.zip)
 

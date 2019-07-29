@@ -28,7 +28,7 @@ Cet executable est la conclusion de la recherche d'un projet cours et fonctionne
 ## Strategy Test
 L'idée de départ de test technique est un jeu de stratégie tout par tour de type wargame (Warhammer). 
 
-## Line
+## CrossLine
 Ce projet est avant tout pour tester la 2D dans Unity. Il reprend le concept d'un mini jeu de World of Warcrat.
 
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/ScreenCrossLine.png?raw=true" alt="" width="500"/>

@@ -11,7 +11,8 @@ Tous ces projet ont le status "Work In Progress". Ils ont pour but de mesurer mo
 ## Dungeon Plateform
 Ce n'est pas proprement un jeu, mais plutôt une demo technique de ce que j'apprend sur Unity. L'idée est un jeu de plateforme avec un univers aventurier (type Indiana Jones) et donjon de jeux de rôles. 
 
-![](https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen.png?raw=true =100x20)
+<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen.png?raw=true" alt="drawing" width="200"/>
+![](https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen.png?raw=true)
 ![](https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen2.png?raw=true)
 ![](https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen3.png?raw=true)
 ![](https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen4.png?raw=true)

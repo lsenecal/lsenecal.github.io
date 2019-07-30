@@ -6,6 +6,7 @@ Le choix d'Unity comme moteur de jeu s'est imposé grâce à trois critères :
 * Abondance des ressources en ligne
 
 # Projets
+
 Tous ces projet ont le status "Work In Progress". Ils ont pour but de mesurer mon avancement dans l'apprentissage en autodidacte du moteur Unity.
 
 ## Dungeon Plateform
@@ -26,12 +27,12 @@ Cet executable est la conclusion de la recherche d'un projet cours et fonctionne
 [Télécharger le zip](https://github.com/lsenecal/lsenecal.github.io/raw/master/DiceTower.zip)
 
 ## Strategy Test
-L'idée de départ de test technique est un jeu de stratégie tout par tour de type wargame (Warhammer). 
+L'idée de départ de ce test technique est un jeu de stratégie tout par tour de type wargame (Warhammer). 
 
 [Télécharger le zip](https://github.com/lsenecal/lsenecal.github.io/raw/master/StrategyTest.zip)
 
 ## CrossLine
-Ce projet est avant tout pour tester la 2D dans Unity. Il reprend le concept d'un mini jeu de World of Warcrat.
+Ce projet est avant tout pour tester la 2D dans Unity. Il reprend le concept d'un mini jeu de World of Warcraft.
 
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/ScreenCrossLine.png?raw=true" alt="" width="500"/>
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/ScreenCrossLine2.png?raw=true" alt="" width="500"/>

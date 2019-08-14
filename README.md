@@ -34,7 +34,6 @@ L'idée de départ de ce test technique est un jeu de stratégie tout par tour d
 ## CrossLine
 Ce projet est avant tout pour tester la 2D dans Unity. Il reprend le concept d'un mini jeu de World of Warcraft.
 
-<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/ScreenCrossLine.png?raw=true" alt="" width="500"/>
-<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/ScreenCrossLine2.png?raw=true" alt="" width="500"/>
+<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/Screen.png?raw=true" alt="" width="500"/>
 
 [Télécharger le zip](https://github.com/lsenecal/lsenecal.github.io/raw/master/CrossLine.zip)

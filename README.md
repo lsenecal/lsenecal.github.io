@@ -3,11 +3,11 @@
 Why choose Unity ? For two main reason : 
 
 First of all, it is free of charge. A major pro when your are a student.
-And secondly, Unity posess a vast community with a lot of asset for self learning.
+And secondly, Unity possess a vast community with a lot of assets for self learning.
 
 # Projects
 
-All the following projects are far from actual game. They only show my progress learning Unity from scratch on my own. As so, thaey can all lable "Work in progress".
+All the following projects are far from actual game. They only show my progress learning Unity from scratch on my own. As so, they can all lable "Work in progress".
 
 ## Dungeon Plateform
 The idea behind the small game was a platefrom game with an Indiana Jones vibe and dark dungon such as one that can be found in Elder Scrolls games.

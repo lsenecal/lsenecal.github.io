@@ -1,26 +1,27 @@
 # Unity
 
-Le choix d'Unity comme moteur de jeu s'est imposé grâce à trois critères : 
-* Gratuité du moteur
-* Utilisation dans l'industrie
-* Abondance des ressources en ligne
+Why choose Unity ? For two main reason : 
 
-# Projets
+First of all, it is free of charge. A major pro when your are a student.
+And secondly, Unity posess a vast community with a lot of asset for self learning.
 
-Tous ces projet ont le status "Work In Progress". Ils ont pour but de mesurer mon avancement dans l'apprentissage en autodidacte du moteur Unity.
+# Projects
+
+All the following projects are far from actual game. They only show my progress learning Unity from scratch on my own. As so, thaey can all lable "Work in progress".
 
 ## Dungeon Plateform
-Ce n'est pas proprement un jeu, mais plutôt une demo technique de ce que j'apprend sur Unity. L'idée est un jeu de plateforme avec un univers aventurier (type Indiana Jones) et donjon de jeux de rôles. 
+The idea behind the small game was a platefrom game with an Indiana Jones vibe and dark dungon such as one that can be found in Elder Scrolls games.
 
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen.png?raw=true" alt="" width="500"/>
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen2.png?raw=true" alt="" width="500"/>
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen3.png?raw=true" alt="" width="500"/>
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen4.png?raw=true" alt="" width="500"/>
 
-[Télécharger le zip](https://github.com/lsenecal/lsenecal.github.io/raw/master/Dungeon_Plateform.zip)
+[Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/Dungeon_Plateform.zip)
 
 ## Dice Tower
-Cet executable est la conclusion de la recherche d'un projet cours et fonctionnel. En tant que roliste, une tour de dés est très pratique et j'ai initié une tour de dé en Unity.
+I wanted a small project that could be end quicly. As a fan of tabletop rpg, dice tower as often use, and I thought it could be nice to create one in Unity.
+This project help me to learn a bit on ProBuilder.
 
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DiceTowerScreen.png?raw=true" alt="" width="500"/>
 

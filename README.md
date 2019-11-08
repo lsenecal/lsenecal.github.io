@@ -25,16 +25,17 @@ This project help me to learn a bit on ProBuilder.
 
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DiceTowerScreen.png?raw=true" alt="" width="500"/>
 
-[Télécharger le zip](https://github.com/lsenecal/lsenecal.github.io/raw/master/DiceTower.zip)
+[Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/DiceTower.zip)
 
 ## Strategy Test
-L'idée de départ de ce test technique est un jeu de stratégie tout par tour de type wargame (Warhammer). 
+Really early project of a strategy wargame such as Warhammer. 
 
-[Télécharger le zip](https://github.com/lsenecal/lsenecal.github.io/raw/master/StrategyTest.zip)
+[Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/StrategyTest.zip)
 
 ## CrossLine
-Ce projet est avant tout pour tester la 2D dans Unity. Il reprend le concept d'un mini jeu de World of Warcraft.
+
+This project was to try 2D in Unity. I really enjoy a mini game used in World of Warcraft and tried to implement it.
 
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/Screen.png?raw=true" alt="" width="500"/>
 
-[Télécharger le zip](https://github.com/lsenecal/lsenecal.github.io/raw/master/CrossLine.zip)
+[Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/CrossLine.zip)

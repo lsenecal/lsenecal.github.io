@@ -2,20 +2,13 @@
 
 ## Bézier Curve Editor
 
-Intially a school project that I decided to push further. This small editor enable to add control points to the curve and click and drag these control points.
+Intially a school project that I decided to push further. This small editor enables to add control points to the curve and click and drag these control points. It uses OpenGL and ImGui.
 
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/Bezier.png?raw=true" alt="" width="500"/>
 
 [Code](https://github.com/lsenecal/lsenecal.github.io/raw/master/BezierCurveEditor.zip)
 
-# Unity
-
-Why choose Unity ? For two main reason : 
-
-First of all, it is free of charge. A major pro when your are a student.
-And secondly, Unity possess a vast community with a lot of assets for self learning.
-
-# Projects
+# Unity Projects
 
 All the following projects are far from actual game. They only show my progress learning Unity from scratch on my own. As so, they can all lable "Work in progress".
 

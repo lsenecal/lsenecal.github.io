@@ -1,5 +1,11 @@
 # Cpp
 
+## Bézier Curve Editor
+
+Intially a school project that I decided to push further. This small editor enable to add control points to the curve and click and drag these control points.
+
+[main.ccp]()
+[Visula Studio project]()
 
 # Unity
 

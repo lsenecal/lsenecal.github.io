@@ -4,6 +4,8 @@
 
 Intially a school project that I decided to push further. This small editor enable to add control points to the curve and click and drag these control points.
 
+<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/Bezier.png?raw=true" alt="" width="500"/>
+
 [Code](https://github.com/lsenecal/lsenecal.github.io/raw/master/BezierCurveEditor.zip)
 
 # Unity

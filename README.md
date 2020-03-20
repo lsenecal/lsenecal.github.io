@@ -1,4 +1,4 @@
-# Cpp
+# C++
 
 ## Bézier Curve Editor
 
@@ -6,7 +6,7 @@ Intially a school project that I decided to push further. This small editor enab
 
 [main.ccp](https://github.com/lsenecal/lsenecal.github.io/raw/master/main.cpp)
 
-[Visual Studio project](https://github.com/lsenecal/lsenecal.github.io/raw/master/)
+[Visual Studio project](https://github.com/lsenecal/lsenecal.github.io/raw/master/BezierCurve.zip)
 
 # Unity
 

@@ -10,7 +10,7 @@ Intially a school project that I decided to push further. This small editor enab
 
 # Unity Projects
 
-All the following projects are far from actual game. They only show my progress learning Unity from scratch on my own. As so, they can all lable "Work in progress".
+All the following projects are far from actual game. They only show my progress learning Unity from scratch on my own. As so, they can all be labled as "Work in progress".
 
 ## Dungeon Plateform
 The idea behind the small game was a platefrom game with an Indiana Jones vibe and dark dungon such as one that can be found in Elder Scrolls games.

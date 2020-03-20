@@ -4,8 +4,9 @@
 
 Intially a school project that I decided to push further. This small editor enable to add control points to the curve and click and drag these control points.
 
-[main.ccp]()
-[Visula Studio project]()
+[main.ccp](https://github.com/lsenecal/lsenecal.github.io/raw/master/main.cpp)
+
+[Visual Studio project](https://github.com/lsenecal/lsenecal.github.io/raw/master/)
 
 # Unity
 

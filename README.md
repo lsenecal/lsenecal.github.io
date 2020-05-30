@@ -19,9 +19,9 @@ Structure code and png generator was given. I have implemented raycast on square
 
 ## Group project : Engine
 
-Objectif : Code from scratch an engine that enable a controler to move inside en environment. COVID19 put donw our objectives, but we were able to provide a demo.
+Objectif : Code from scratch an engine that enable a controler to move inside en environment. COVID19 forces us to revise downwards our goals, but we were able to provide a demo. The engine feature random generate terrain, grass, tree and collision.
 
-[![Engine](https://github.com/lsenecal/lsenecal.github.io/blob/master/Bezier.png)](https://www.youtube.com/watch?v=qZubpwO4UZ0 "Engine")
+[![Engine](https://github.com/lsenecal/lsenecal.github.io/blob/master/engine.png)](https://www.youtube.com/watch?v=qZubpwO4UZ0 "Engine")
 
 # Unity Projects
 

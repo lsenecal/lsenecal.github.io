@@ -17,6 +17,11 @@ Structure code and png generator was given. I have implemented raycast on square
 
 [Code](https://github.com/lsenecal/lsenecal.github.io/raw/master/raytracing.tar.xz)
 
+## Group project : Engine
+
+Objectif : Code from scratch an engine that enable a controler to move inside en environment. COVID19 put donw our objectives, but we were able to provide a demo.
+
+[![Engine](https://github.com/lsenecal/lsenecal.github.io/blob/master/Bezier.png)](https://www.youtube.com/watch?v=qZubpwO4UZ0 "Engine")
 
 # Unity Projects
 

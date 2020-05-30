@@ -4,7 +4,7 @@
 
 Initially a school project that I have decided to push further. This small editor makes possiblr to add control points to the curve and click and drag these control points.
 
-[![Click to see the video](https://github.com/lsenecal/lsenecal.github.io/blob/master/Bezier.png)](https://www.youtube.com/watch?v=FHIcvw5govw "Bézier")
+[![Bézier](https://github.com/lsenecal/lsenecal.github.io/blob/master/Bezier.png)](https://www.youtube.com/watch?v=FHIcvw5govw "Click to see the video")
 
 [Code](https://github.com/lsenecal/lsenecal.github.io/raw/master/Bezier.tar.xz)
 

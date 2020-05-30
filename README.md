@@ -4,7 +4,7 @@
 
 Intially a school project that I decided to push further. This small editor enables to add control points to the curve and click and drag these control points. It uses OpenGL.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FHIcvw5govw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Bezier](https://github.com/lsenecal/lsenecal.github.io/blolb/Bezier.png)](https://www.youtube.com/watch?v=FHIcvw5govw "Bezier")
 
 [Code](https://github.com/lsenecal/lsenecal.github.io/raw/master/Bezier.tar.xz)
 

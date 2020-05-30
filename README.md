@@ -2,7 +2,7 @@
 
 ## Bézier Curve Editor
 
-Intially a school project that I decided to push further. This small editor enables to add control points to the curve and click and drag these control points. It uses OpenGL.
+Initially a school project that I have decided to push further. This small editor makes possiblr to add control points to the curve and click and drag these control points.
 
 [![Bézier](https://github.com/lsenecal/lsenecal.github.io/blob/master/Bezier.png)](https://www.youtube.com/watch?v=FHIcvw5govw "Bézier")
 

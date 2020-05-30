@@ -1,4 +1,4 @@
-# C++
+# C++ & OpenGL
 
 ## Bézier Curve Editor
 
@@ -9,6 +9,9 @@ Intially a school project that I decided to push further. This small editor enab
 [Code](https://github.com/lsenecal/lsenecal.github.io/raw/master/Bezier.tar.xz)
 
 ## Ray traycing
+
+School project on raytracing. Image shows a mirror sphere and a glass sphere inside a box (Cornel box like setup).
+Structure code and png generator was given. I have implemented raycast on square, sphere and mesh as well as reflexion and refraction computation.
 
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/raytracing.png?raw=true" alt="" width="500"/>
 

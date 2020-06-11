@@ -27,21 +27,21 @@ Objectif : Code from scratch an engine that enable a controler to move inside en
 
 All the following projects are far from actual game. They only show my progress learning Unity from scratch on my own. As so, they can all be labled as "Work in progress".
 
-## Dungeon Plateform
-The idea behind the small game was a platefrom game with an Indiana Jones vibe and dark dungon such as one that can be found in Elder Scrolls games.
+## Dungeon Platform
+The idea behind the small game was a platform game with an Indiana Jones vibe and dark dungon such as one that can be found in Elder Scrolls games.
 
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen.png?raw=true" alt="" width="500"/>
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen2.png?raw=true" alt="" width="500"/>
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen3.png?raw=true" alt="" width="500"/>
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen4.png?raw=true" alt="" width="500"/>
 
+[![Dungeon Platform](https://github.com/lsenecal/lsenecal.github.io/blob/master/DDungeonPlateformScreen.png)](https://www.youtube.com/watch?v=wYL55fzgMjg "Click to see the video")
+
 [Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/Dungeon_Plateform.zip)
 
 ## Dice Tower
 I wanted a small project that could be end quicly. As a fan of tabletop rpg, dice tower as often use, and I thought it could be nice to create one in Unity.
 This project help me to learn a bit on ProBuilder.
-
-<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DiceTowerScreen.png?raw=true" alt="" width="500"/>
 
 [![Dice Tower](https://github.com/lsenecal/lsenecal.github.io/blob/master/DiceTowerScreen.png)](https://www.youtube.com/watch?v=xOFWO-1uAKo "Click to see the video")
 

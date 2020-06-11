@@ -43,6 +43,8 @@ This project help me to learn a bit on ProBuilder.
 
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DiceTowerScreen.png?raw=true" alt="" width="500"/>
 
+[![Dice Tower](https://github.com/lsenecal/lsenecal.github.io/blob/master/DiceTowerScreen.png)](https://www.youtube.com/watch?v=xOFWO-1uAKo "Click to see the video")
+
 [Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/DiceTower.zip)
 
 ## Strategy Test

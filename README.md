@@ -30,12 +30,7 @@ All the following projects are far from actual game. They only show my progress 
 ## Dungeon Platform
 The idea behind the small game was a platform game with an Indiana Jones vibe and dark dungon such as one that can be found in Elder Scrolls games.
 
-<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen.png?raw=true" alt="" width="500"/>
-<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen2.png?raw=true" alt="" width="500"/>
-<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen3.png?raw=true" alt="" width="500"/>
-<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen4.png?raw=true" alt="" width="500"/>
-
-[![Dungeon Platform](https://github.com/lsenecal/lsenecal.github.io/blob/master/DDungeonPlateformScreen.png)](https://www.youtube.com/watch?v=wYL55fzgMjg "Click to see the video")
+[![Dungeon Platform](https://github.com/lsenecal/lsenecal.github.io/blob/master/DungeonPlateformScreen2.png)](https://www.youtube.com/watch?v=wYL55fzgMjg "Click to see the video")
 
 [Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/Dungeon_Plateform.zip)
 

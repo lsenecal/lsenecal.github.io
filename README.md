@@ -54,8 +54,6 @@ Really early project of a strategy wargame such as Warhammer.
 
 This project was to try 2D in Unity. I really enjoy a mini game used in World of Warcraft and tried to implement it.
 
-<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/Screen.png?raw=true" alt="" width="500"/>
-
-[![CrossLine](https://github.com/lsenecal/lsenecal.github.io/blob/master/Screen.png)](https://www.youtube.com/watch?v=95yGWg9ad-o "Click to see the video")
+[![CrossLine](https://github.com/lsenecal/lsenecal.github.io/blob/master/Screen.png)](https://www.youtube.com/watch?v=92iu-BP30Vg "Click to see the video")
 
 [Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/CrossLine.zip)

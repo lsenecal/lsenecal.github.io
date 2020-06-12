@@ -1,12 +1,10 @@
 # C++ & OpenGL
 
-TEst
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ## Bézier Curve Editor
 
 Initially a school project that I have decided to push further. This small editor makes possiblr to add control points to the curve and click and drag these control points.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FHIcvw5govw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [![Bézier](https://github.com/lsenecal/lsenecal.github.io/blob/master/Bezier.png)](https://www.youtube.com/watch?v=FHIcvw5govw "Click to see the video")
 

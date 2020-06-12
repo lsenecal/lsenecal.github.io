@@ -4,7 +4,7 @@
 
 Initially a school project that I have decided to push further. This small editor makes possiblr to add control points to the curve and click and drag these control points.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FHIcvw5govw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/FHIcvw5govw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [Code](https://github.com/lsenecal/lsenecal.github.io/raw/master/Bezier.tar.xz)
 
@@ -21,7 +21,7 @@ Structure code and png generator were given. I have implemented raycast on squar
 
 Objectif : Code from scratch an engine that enable a controler to move inside en environment. COVID19 forces us to revise downwards our goals, but we were able to provide a demo. The engine feature random generate terrain, grass, tree and collision.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qZubpwO4UZ0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/qZubpwO4UZ0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 # Unity Projects
 
@@ -30,7 +30,7 @@ All the following projects are far from actual game. They only show my progress 
 ## Dungeon Platform
 The idea behind the small game was a platform game with an Indiana Jones vibe and dark dungon such as one that can be found in Elder Scrolls games.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wYL55fzgMjg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wYL55fzgMjg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/Dungeon_Plateform.zip)
 
@@ -38,7 +38,7 @@ The idea behind the small game was a platform game with an Indiana Jones vibe an
 I wanted a small project that could be end quicly. As a fan of tabletop rpg, dice tower as often use, and I thought it could be nice to create one in Unity.
 This project help me to learn a bit on ProBuilder.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xOFWO-1uAKo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/xOFWO-1uAKo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/DiceTower.zip)
 
@@ -51,6 +51,6 @@ Really early project of a strategy wargame such as Warhammer.
 
 This project was to try 2D in Unity. I really enjoy a mini game used in World of Warcraft and tried to implement it.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/92iu-BP30Vg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/92iu-BP30Vg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/CrossLine.zip)

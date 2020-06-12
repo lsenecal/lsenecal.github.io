@@ -1,5 +1,7 @@
 # C++ & OpenGL
 
+{% include youtube.html id=dQw4w9WgXcQ %}
+
 ## Bézier Curve Editor
 
 Initially a school project that I have decided to push further. This small editor makes possiblr to add control points to the curve and click and drag these control points.

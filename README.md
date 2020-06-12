@@ -1,6 +1,6 @@
 # C++ & OpenGL
 
-{% include youtube.html id=dQw4w9WgXcQ %}
+{% include youtube.html id="dQw4w9WgXcQ" width="850" height="375" %}
 
 ## Bézier Curve Editor
 

@@ -25,6 +25,10 @@ public:
 		return _entityManager->createEntity();
 	}
 
+	Signature getEntitySignature(Entity e) {
+		return _entityManager->getSignature(e);
+	}
+
 	void destroyEntity(Entity entity)
 	{
 		_entityManager->destroyEntity(entity);

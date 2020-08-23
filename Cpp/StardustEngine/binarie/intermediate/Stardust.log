@@ -1,56 +1,70 @@
 ﻿  UserAssets.cpp
-  InstanceRenderer.cpp
-  Main.cpp
-  MasterRenderer.cpp
-  EntityManager.cpp
-  ShaderManager.cpp
-  Skybox.cpp
-  Texture.cpp
-  TextureManager.cpp
-  Window.cpp
-  MasterManager.cpp
-  GuiSystem.cpp
-  RenderSystem.cpp
-  imgui.cpp
-  imgui_demo.cpp
-  imgui_draw.cpp
-  imgui_impl_glfw.cpp
-  imgui_impl_opengl3.cpp
-  imgui_widgets.cpp
-  stb_image.cpp
-  Generating Code...
-  glad.c
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewActiveTexture
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewBlendEquation
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewBlendFuncSeparate
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewBindBuffer
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewBufferData
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewDeleteBuffers
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewGenBuffers
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewAttachShader
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewBlendEquationSeparate
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewCompileShader
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewCreateProgram
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewCreateShader
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewDeleteProgram
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewDeleteShader
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewDetachShader
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewEnableVertexAttribArray
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewGetAttribLocation
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramInfoLog
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramiv
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderInfoLog
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderiv
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewGetUniformLocation
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewLinkProgram
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewShaderSource
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewUniform1i
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewUniformMatrix4fv
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewUseProgram
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewVertexAttribPointer
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewDrawElementsBaseVertex
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewBindSampler
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewBindVertexArray
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewDeleteVertexArrays
-imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewGenVertexArrays
-..\binarie\Stardust.exe : fatal error LNK1120: 33 unresolved externals
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\source\graphics\model.h(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(77): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(78): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(80): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(99): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(239): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(259): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(279): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(288): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(297): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(317): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(320): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(360): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(369): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(378): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(399): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(402): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(440): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(449): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(458): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(476): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(479): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(637): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(642): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(654): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(655): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(661): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(667): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(668): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(673): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(679): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(680): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(685): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(691): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(692): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(697): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(703): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(704): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(709): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(715): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(716): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(721): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(727): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(728): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(733): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(739): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(740): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(745): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(751): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(752): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(757): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(763): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(764): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(769): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(775): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(776): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(781): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(787): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(788): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luc\downloads\stardustengine-flora_terrain_physics_audio\stardust\stardust\assets\userassets.cpp(793): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Stardust.vcxproj -> C:\Users\Luc\Downloads\StardustEngine-flora_terrain_physics_audio\Stardust\Stardust\..\binarie\Stardust.exe

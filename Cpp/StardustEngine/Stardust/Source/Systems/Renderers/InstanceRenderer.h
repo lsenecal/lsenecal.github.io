@@ -35,10 +35,9 @@ public:
 	void produce();
 
 	void createVAOVBO(VAO * vao, VBO * vbos, std::set<Entity>* entities, std::vector<glm::vec3> * vertices, std::vector<glm::vec3> * normals, int * numberOfElements, Shader * shader);
-	void updateVAOVBO();
+	void updateVAOVBO(VAO * vao, VBO * vbos, std::set<Entity>* entities, std::vector<glm::vec3> * vvertices, std::vector<glm::vec3> * vnormals, int * numberOfElements);
 
 	void render(Camera * camera, Shader * shader, VAO * vao, int * numberOfElements, int max_vertices);
-private :
+private:
 
 };
-

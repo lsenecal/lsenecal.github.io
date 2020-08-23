@@ -11,7 +11,7 @@ Window::Window()
 
 
 Window::~Window()
-{	
+{
 	glfwDestroyWindow(_window);
 	glfwTerminate();
 }
@@ -27,6 +27,7 @@ void Window::create_window(std::string name, int width, int height, bool fullscr
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 4);
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 4);
 	glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
+	glfwWindowHint(GLFW_SAMPLES, 4);
 
 #ifdef __APPLE__
 	glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GL_TRUE);
@@ -44,7 +45,7 @@ void Window::create_window(std::string name, int width, int height, bool fullscr
 		std::cerr << "Failed to create GLFW window" << std::endl;
 	}
 
-    // setCallbackFunctions();	
+	// setCallbackFunctions();	
 	glfwMakeContextCurrent(_window);
 	glfwSetInputMode(_window, GLFW_CURSOR, GLFW_CURSOR_DISABLED);
 
@@ -63,8 +64,8 @@ glm::vec2 Window::getDimension()
 
 void Window::initCallback(Camera * camera)
 {
-	instanceCallback.setCamera(camera);
 	instanceCallback.setLastXY(_window_dimension.x / 2.0f, _window_dimension.y / 2.0f);
+	instanceCallback.setCamera(camera);
 }
 
 void Window::setCallbackFunctions()

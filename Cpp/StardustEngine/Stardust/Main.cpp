@@ -3,7 +3,8 @@
 
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
-#include <iostream>
+#include <iostream> 
+#include <iomanip>      // std::setprecision
 
 Coordinator g_coordinator;
 
@@ -15,6 +16,9 @@ int main()
 	UserAssets userAssets = UserAssets(&core);
 	userAssets.init();
 	glfwSwapInterval(0);
+	
+
+	
 	while (!glfwWindowShouldClose(glfwGetCurrentContext())) 
 	{
 		core.processInput();

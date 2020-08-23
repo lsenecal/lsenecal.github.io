@@ -5,11 +5,14 @@ static float random(glm::vec2 st) {
 
 	return (float)glm::fract(
 		sin(glm::dot(st,
-			glm::vec2(12.9898, 78.233)))
-		* 43758.5453123)
+			glm::vec2(12.9898f, 78.233f)))
+		* 43758.5453123f)
 
 		;
 }
+
+
+
 
 // 2D Noise based on Morgan McGuire @morgan3d
 // https://www.shadertoy.com/view/4dS3Wd
@@ -19,9 +22,9 @@ static float noise(glm::vec2 st) {
 
 	// Four corners in 2D of a tile
 	float a = random(i);
-	float b = random(i + glm::vec2(1.0, 0.0));
-	float c = random(i + glm::vec2(0.0, 1.0));
-	float d = random(i + glm::vec2(1.0, 1.0));
+	float b = random(i + glm::vec2(1.0f, 0.0f));
+	float c = random(i + glm::vec2(0.0f, 1.0f));
+	float d = random(i + glm::vec2(1.0f, 1.0f));
 
 	// Smooth Interpolation
 
@@ -66,18 +69,22 @@ static float noise(glm::vec2 st) {
 		(d - b) * u.x * u.y;
 }*/
 
-#define OCTAVES 6
-static float fbm(glm::vec2 st) {
+#define OCTAVES 1
+
+
+
+static float fbm(float x, float z) {
+	glm::vec2 st = glm::vec2(x, z);
 	// Initial values
-	float value = 0.0;
-	float amplitude = .5;
-	float frequency = 0.0;
+	float value = 0.0f;
+	float amplitude = 0.5f;
+	float frequency = 0.4f;
 	//
 	// Loop of octaves
-	for (int i = 0; i < OCTAVES; i++) {
+	for (int i = 0; i < 1; i++) {
 		value += amplitude * noise(st);
-		st *= 2.;
-		amplitude *= .5;
+		st *= 2.0f;
+		amplitude *= 0.5f;
 	}
 	return value;
 }
@@ -85,14 +92,19 @@ static float fbm(glm::vec2 st) {
 
 
 static float Perlin3D(float x, float y, float z) {
-	float ab = fbm(glm::vec2(x, y));
-	float bc = fbm(glm::vec2(y, z));
-	float ac = fbm(glm::vec2(x, z));
+	float ab = fbm(x, y);
+	float bc = fbm(y, z);
+	float ac = fbm(x, z);
 
-	float ba = fbm(glm::vec2(y, x));
-	float cb = fbm(glm::vec2(z, y));
-	float ca = fbm(glm::vec2(z, x));
+	float ba = fbm(y, x);
+	float cb = fbm(z, y);
+	float ca = fbm(z, x);
 
 	float abc = ab + bc + ac + ba + cb + ca;
 	return abc / 6.0f;
+}
+
+
+static float Perlin2D(float x, float z) {
+	return fbm(x, z);
 }

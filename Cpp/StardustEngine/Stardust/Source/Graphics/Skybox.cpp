@@ -93,7 +93,7 @@ Skybox::Skybox(Shader * shader)
 
 void Skybox::render(Camera * camera) {
 	glPolygonMode(GL_FRONT_AND_BACK, GL_FILL);
-	_cubemapTextureID = _themes.find(nameSky)->second;
+	_cubemapTextureID = _themes.find("Miramar")->second;
 
 	// draw skybox as last
 	glDepthFunc(GL_LEQUAL);  // change depth function so depth test passes when values are equal to depth buffer's content

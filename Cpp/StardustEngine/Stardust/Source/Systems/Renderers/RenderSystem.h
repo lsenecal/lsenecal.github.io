@@ -9,6 +9,7 @@
 
 // Graphics 
 #include "../../Graphics/Shader.h"
+#include "../../Graphics/Skybox.h"
 
 // other
 #include "VAOVBO.h"
@@ -28,7 +29,7 @@ public:
 protected:
 	int _maxVertices;
 	bool _firstInitialisation;
-	
+
 	Shader * _shader;
 	int _numberOfElements;
 
@@ -43,5 +44,3 @@ protected:
 	void initRenderSystem(std::shared_ptr<InstanceRenderer> ir);
 
 };
-
-

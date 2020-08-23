@@ -1,0 +1,28 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl trunk
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd trunk_dif.jpg
+map_Bump trunk_normal.jpg
+map_Ks trunk_specular.jpg
+
+newmtl trunk.001
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd branch_dif.png
+map_Bump branch_normal.png
+map_Ks branch_specular.jpg

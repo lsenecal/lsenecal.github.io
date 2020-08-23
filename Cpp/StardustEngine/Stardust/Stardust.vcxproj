@@ -76,8 +76,9 @@
     <IntDir>..\binarie\intermediate\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
-    <IncludePath>$(ProjectDir)Resources\include;$(IncludePath)</IncludePath>
-    <LibraryPath>$(ProjectDir)Resources\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>$(ProjectDir)Vendor\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(ProjectDir)Vendor\lib;$(LibraryPath)</LibraryPath>
+    <LinkIncremental>false</LinkIncremental>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <IncludePath>$(ProjectDir)Vendor\include;$(IncludePath)</IncludePath>
@@ -86,8 +87,9 @@
     <IntDir>..\binarie\intermediate\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <IncludePath>$(ProjectDir)Resources\include;$(IncludePath)</IncludePath>
-    <LibraryPath>$(ProjectDir)Resources\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>$(ProjectDir)Vendor\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(ProjectDir)Vendor\lib;$(LibraryPath)</LibraryPath>
+    <LinkIncremental>false</LinkIncremental>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -96,9 +98,10 @@
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp17</LanguageStandard>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
-      <AdditionalDependencies>glfw3.lib;opengl32.lib;user32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>glfw3.lib;opengl32.lib;user32.lib;assimpd.lib;OpenAL32.lib;EFX-Util.lib;libsndfile-1.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <AdditionalOptions>/NODEFAULTLIB:MSVCRT.lib /ignore:4099 %(AdditionalOptions)</AdditionalOptions>
     </Link>
   </ItemDefinitionGroup>
@@ -109,9 +112,10 @@
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp17</LanguageStandard>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
-      <AdditionalDependencies>glfw3.lib;opengl32.lib;user32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>glfw3.lib;opengl32.lib;user32.lib;assimpd.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <AdditionalOptions>/NODEFAULTLIB:MSVCRT.lib /ignore:4099 %(AdditionalOptions)</AdditionalOptions>
     </Link>
   </ItemDefinitionGroup>
@@ -123,6 +127,8 @@
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <AdditionalOptions>/GS- %(AdditionalOptions)</AdditionalOptions>
     </ClCompile>
     <Link>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
@@ -139,6 +145,8 @@
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <AdditionalOptions>/GS- %(AdditionalOptions)</AdditionalOptions>
     </ClCompile>
     <Link>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
@@ -149,6 +157,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Assets\UserAssets.cpp" />
+    <ClCompile Include="Assets\Octree.cpp" />
+    <ClCompile Include="Source\Audio\AudioAmbience.cpp" />
+    <ClCompile Include="Source\Audio\AudioMaster.cpp" />
+    <ClCompile Include="Source\Audio\AudioSource.cpp" />
+    <ClCompile Include="Source\Systems\Camera\CameraSystem.cpp" />
+    <ClCompile Include="Source\Graphics\InstancedModel.cpp" />
+    <ClCompile Include="Source\Graphics\Model.cpp" />
+    <ClCompile Include="Source\Systems\Renderers\GrassSystem.cpp" />
+    <ClCompile Include="Source\Systems\Renderers\MarchingCubeRS.cpp" />
+    <ClCompile Include="Source\Systems\Physics\CollisionDetectionSystem.cpp" />
+    <ClCompile Include="Source\Systems\Physics\CollisionResolutionSystem.cpp" />
+    <ClCompile Include="Source\Systems\Physics\GravitySystem.cpp" />
+    <ClCompile Include="Source\Systems\MasterPhysics.cpp" />
+    <ClCompile Include="Source\Systems\Physics\IntegratorSystem.cpp" />
     <ClCompile Include="Source\Systems\Renderers\InstanceRenderer.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Source\Systems\MasterRenderer.cpp" />
@@ -161,6 +183,7 @@
     <ClCompile Include="Source\MasterManager.cpp" />
     <ClCompile Include="Source\Systems\GuiSystem.cpp" />
     <ClCompile Include="Source\Systems\Renderers\RenderSystem.cpp" />
+    <ClCompile Include="Source\Systems\Renderers\TerrainRenderer.cpp" />
     <ClCompile Include="Vendor\include\glad\glad.c" />
     <ClCompile Include="Vendor\include\imgui\imgui.cpp" />
     <ClCompile Include="Vendor\include\imgui\imgui_demo.cpp" />
@@ -173,7 +196,29 @@
   <ItemGroup>
     <ClInclude Include="Assets\RandomGenerator.h" />
     <ClInclude Include="Assets\UserAssets.h" />
+    <ClInclude Include="Assets\Octree.h" />
+    <ClInclude Include="Source\Audio\AudioAmbience.h" />
+    <ClInclude Include="Source\Audio\AudioMaster.h" />
+    <ClInclude Include="Source\Audio\AudioSource.h" />
+    <ClInclude Include="Source\Components\CameraComponent.h" />
+    <ClInclude Include="Source\Systems\Camera\CameraSystem.h" />
+    <ClInclude Include="Source\Graphics\InstancedModel.h" />
+    <ClInclude Include="Source\Graphics\MeshType.h" />
+    <ClInclude Include="Source\Graphics\Model.h" />
+    <ClInclude Include="Source\Systems\Renderers\GrassSystem.h" />
+    <ClInclude Include="Source\Systems\Renderers\MarchingCubeRS.h" />
+    <ClInclude Include="Source\Components\Terrain.h" />
+    <ClInclude Include="Source\Systems\Physics\CollisionData.h" />
+    <ClInclude Include="Source\Systems\Physics\CollisionDetectionSystem.h" />
+    <ClInclude Include="Source\Systems\Physics\CollisionResolutionSystem.h" />
+    <ClInclude Include="Source\Systems\Physics\GravitySystem.h" />
+    <ClInclude Include="Source\Components\Physics.h" />
+    <ClInclude Include="Source\Components\Collider.h" />
+    <ClInclude Include="Source\Systems\constantes.h" />
+    <ClInclude Include="Source\Systems\MasterPhysics.h" />
+    <ClInclude Include="Source\Systems\Physics\IntegratorSystem.h" />
     <ClInclude Include="Source\Systems\Renderers\InstanceRenderer.h" />
+    <ClInclude Include="Source\Systems\Renderers\ModelSystem.h" />
     <ClInclude Include="Source\Systems\Renderers\PyramidRenderSystem.h" />
     <ClInclude Include="Source\Systems\Renderers\QuadRenderSystem.h" />
     <ClInclude Include="Source\Systems\Renderers\CubeRenderSystem.h" />
@@ -201,7 +246,9 @@
     <ClInclude Include="Source\MasterManager.h" />
     <ClInclude Include="Source\Systems\GuiSystem.h" />
     <ClInclude Include="Source\Systems\Renderers\RenderSystem.h" />
+    <ClInclude Include="Source\Systems\Renderers\SphereRenderSystem.h" />
     <ClInclude Include="Source\Systems\Renderers\VAOVBO.h" />
+    <ClInclude Include="Source\Systems\Renderers\TerrainRenderer.h" />
     <ClInclude Include="Vendor\include\imgui\imconfig.h" />
     <ClInclude Include="Vendor\include\imgui\imgui.h" />
     <ClInclude Include="Vendor\include\imgui\imgui_impl_glfw.h" />

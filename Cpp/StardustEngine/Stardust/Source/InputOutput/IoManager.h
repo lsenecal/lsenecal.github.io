@@ -7,9 +7,9 @@ class IoManager
 {
 public:
 	IoManager() : previousTabPress(false) {}
-	~IoManager(){}
+	~IoManager() {}
 
-	void processInput(GLFWwindow * window, Camera * camera, float deltaTime) 
+	void processInput(GLFWwindow * window, Camera * camera, float deltaTime)
 	{
 		if (glfwGetKey(window, GLFW_KEY_ESCAPE) == GLFW_PRESS && !previousTabPress)
 		{
@@ -39,9 +39,9 @@ public:
 
 		if (glfwGetKey(window, GLFW_KEY_SPACE) == GLFW_PRESS)
 			camera->ProcessKeyboard(UP, deltaTime);
+
 	}
 
-private :
+private:
 	bool previousTabPress;
 };
-

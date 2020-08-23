@@ -1,0 +1,56 @@
+﻿  UserAssets.cpp
+  InstanceRenderer.cpp
+  Main.cpp
+  MasterRenderer.cpp
+  EntityManager.cpp
+  ShaderManager.cpp
+  Skybox.cpp
+  Texture.cpp
+  TextureManager.cpp
+  Window.cpp
+  MasterManager.cpp
+  GuiSystem.cpp
+  RenderSystem.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_widgets.cpp
+  stb_image.cpp
+  Generating Code...
+  glad.c
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewActiveTexture
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewBlendEquation
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewBlendFuncSeparate
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewBindBuffer
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewBufferData
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewDeleteBuffers
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewGenBuffers
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewAttachShader
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewBlendEquationSeparate
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewCompileShader
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewCreateProgram
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewCreateShader
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewDeleteProgram
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewDeleteShader
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewDetachShader
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewEnableVertexAttribArray
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewGetAttribLocation
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramInfoLog
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramiv
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderInfoLog
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderiv
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewGetUniformLocation
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewLinkProgram
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewShaderSource
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewUniform1i
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewUniformMatrix4fv
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewUseProgram
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewVertexAttribPointer
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewDrawElementsBaseVertex
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewBindSampler
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewBindVertexArray
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewDeleteVertexArrays
+imgui_impl_opengl3.obj : error LNK2001: unresolved external symbol __imp____glewGenVertexArrays
+..\binarie\Stardust.exe : fatal error LNK1120: 33 unresolved externals

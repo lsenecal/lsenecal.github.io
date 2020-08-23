@@ -6,6 +6,8 @@ Objectives of this assignment : To code from scratch an engine that enables the 
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/qZubpwO4UZ0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+[Code](https://github.com/lsenecal/lsenecal.github.io/raw/master/Cpp/StardustEngine.zip)
+
 ## Bézier Curve Editor
 
 This project initially started as a school assignment that I have decided to advance further. This small editor makes it possible to add control points to a curve and also click and drag these control points.
@@ -27,6 +29,8 @@ School project on raytracing: The following image shows a mirror sphere and a gl
 Ongoing project aiming to learn DirectX 12 on my own.
 
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/Cpp/Screenshots/ProjectDX12.png?raw=true" alt="" width="500"/>
+
+[Code](https://github.com/lsenecal/lsenecal.github.io/raw/master/Cpp/ProjectDX12.zip)
 
 # Unity Projects
 

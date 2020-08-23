@@ -3,14 +3,6 @@
 #include "util.h"
 #include "UploadBuffer.h"
 
-struct Vertex
-{
-	DirectX::XMFLOAT3 Pos;
-	DirectX::XMFLOAT3 Normal;
-	DirectX::XMFLOAT2 TexCoordinates;
-	DirectX::XMFLOAT3 Tangent;
-};
-
 struct MaterialConstants
 {
 	UINT DiffuseMapIndex;

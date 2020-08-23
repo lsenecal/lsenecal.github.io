@@ -23,6 +23,14 @@
 
 const int g_FrameBufferCount = 2;
 
+struct Vertex
+{
+	DirectX::XMFLOAT3 Pos;
+	DirectX::XMFLOAT3 Normal;
+	DirectX::XMFLOAT2 TexCoordinates;
+	DirectX::XMFLOAT3 Tangent;
+};
+
 inline DirectX::XMFLOAT4X4 IDENTITYMATRIX() {
 	return DirectX::XMFLOAT4X4(
 		1.0f, 0.0f, 0.0f, 0.0f,
@@ -179,3 +187,5 @@ void loadTexture(
 	std::wstring MetallicFileName,
 	std::wstring RoughnessFileName,
 	std::wstring NormalFileName);
+
+void CreateSphere(std::vector<Vertex>& vSphere, std::vector<UINT>& iSphere, UINT stackCount, UINT sectorCount, float radius);

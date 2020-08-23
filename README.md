@@ -1,6 +1,6 @@
 # C++ & OpenGL
 
-## Group project : Engine
+### Group project : Engine
 
 Objectives of this assignment : To code from scratch an engine that enables the controler to move inside en environment. COVID19 has forced us to set less ambitious goals, but we were able to provide a demo. The engine feature randomly generate terrain, grass, trees and collisions. My contribution was focus on the Physics Engine.
 

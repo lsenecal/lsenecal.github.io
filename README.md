@@ -12,15 +12,15 @@ This project initially started as a school assignment that I have decided to adv
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/FHIcvw5govw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Code](https://github.com/lsenecal/lsenecal.github.io/raw/master/Bezier.tar.xz)
+[Code](https://github.com/lsenecal/lsenecal.github.io/raw/master/Cpp/Bezier.tar.xz)
 
 ## Ray traycing
 
 School project on raytracing: The following image shows a mirror sphere and a glass sphere inside a box (Cornel box like setup). A structure code and png generator were given and I have implemented raycast on the square, sphere and mesh as well as reflexion and refraction computation.
 
-<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/raytracing.png?raw=true" alt="" width="500"/>
+<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/Cpp/Screenshots/raytracing.png?raw=true" alt="" width="500"/>
 
-[Code](https://github.com/lsenecal/lsenecal.github.io/raw/master/raytracing.tar.xz)
+[Code](https://github.com/lsenecal/lsenecal.github.io/raw/master/Cpp/raytracing.tar.xz)
 
 # DirectX12
 
@@ -35,21 +35,21 @@ The idea behind this small game was a platform game with an Indiana Jones vibe w
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/wYL55fzgMjg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/Dungeon_Plateform.zip)
+[Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/Unity/Dungeon_Plateform.zip)
 
 ## Dice Tower
 I wanted a small project that could be ended quickly. As a fan of tabletop rpg, dice towers are often used, and I thought it could be nice to create one in Unity. This project helped me to learn a little of ProBuilder.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/xOFWO-1uAKo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/DiceTower.zip)
+[Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/Unity/DiceTower.zip)
 
 ## Strategy Test
 This is a really early project of a strategy wargame such as Warhammer. This demo mainly serves as a test place.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/dOwHmUhKjqU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/StrategyTest.zip)
+[Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/Unity/StrategyTest.zip)
 
 ## CrossLine
 
@@ -57,4 +57,4 @@ This project was to try 2D in Unity. I have discovered a mini game in World of W
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/92iu-BP30Vg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/CrossLine.zip)
+[Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/Unity/CrossLine.zip)

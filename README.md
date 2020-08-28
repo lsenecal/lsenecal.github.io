@@ -67,5 +67,5 @@ This project was to try 2D in Unity. I have discovered a mini game in World of W
 
 # Scientific paper
 
-The formation of Jupiter by hybrid pebble-planetesimal accretion
+The formation of Jupiter by hybrid pebble-planetesimal accretion : 
 https://arxiv.org/abs/1809.05383

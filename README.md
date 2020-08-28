@@ -64,3 +64,8 @@ This project was to try 2D in Unity. I have discovered a mini game in World of W
 <iframe width="640" height="360" src="https://www.youtube.com/embed/92iu-BP30Vg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/Unity/CrossLine.zip)
+
+# Scientific paper
+
+The formation of Jupiter by hybrid pebble-planetesimal accretion
+https://arxiv.org/abs/1809.05383

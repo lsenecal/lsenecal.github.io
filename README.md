@@ -28,7 +28,7 @@ School project on raytracing: The following image shows a mirror sphere and a gl
 
 Ongoing project aiming to learn DirectX 12 on my own.
 
-<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/Cpp/Screenshots/ProjectDX12.png?raw=true" alt="" width="500"/>
+<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/Cpp/Screenshots/ProjectDX12.png?raw=true" alt="" width="600"/>
 
 [Code](https://github.com/lsenecal/lsenecal.github.io/raw/master/Cpp/ProjectDX12.zip)
 

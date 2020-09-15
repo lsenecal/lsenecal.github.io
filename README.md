@@ -6,7 +6,7 @@ Objectives of this assignment : To code from scratch an engine that enables the 
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/qZubpwO4UZ0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Code](https://github.com/lsenecal/lsenecal.github.io/raw/master/Cpp/StardustEngine.zip)
+[Code Sample](https://github.com/lsenecal/lsenecal.github.io/raw/master/Cpp/StardustEngine.zip)
 
 ### Bézier Curve Editor
 

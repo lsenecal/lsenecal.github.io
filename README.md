@@ -14,7 +14,9 @@ This project initially started as a school assignment that I have decided to adv
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/FHIcvw5govw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Code](https://github.com/lsenecal/lsenecal.github.io/raw/master/Cpp/Bezier.tar.xz)
+[Code (zip)](https://github.com/lsenecal/lsenecal.github.io/raw/master/Cpp/Bezier.tar.xz)
+
+[Code (github)](https://github.com/lsenecal/lsenecal.github.io/tree/master/Cpp/ProjectDX12/ProjectDX12)
 
 ### Ray traycing
 

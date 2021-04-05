@@ -34,6 +34,10 @@ Ongoing project aiming to learn DirectX 12 on my own.
 
 [Code](https://github.com/lsenecal/lsenecal.github.io/raw/master/Cpp/ProjectDX12.zip)
 
+# Deep Learning Project
+
+<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/Cpp/Screenshots/ProjectDX12.png?raw=true" alt="" width="600"/>
+
 # Unity Projects
 
 All the following projects are far from actual games. However, they demonstrate my progress in learning Unity from scratch. As so they can all be labled as “Work in progress”.

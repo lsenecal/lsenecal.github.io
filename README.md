@@ -36,7 +36,7 @@ Ongoing project aiming to learn DirectX 12 on my own.
 
 # Deep Learning Project
 
-<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/Cpp/Screenshots/ProjectDX12.png?raw=true" alt="" width="600"/>
+<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/LossyCompressionPoster.pdf?raw=true" alt="" width="600"/>
 
 # Unity Projects
 

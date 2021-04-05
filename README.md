@@ -36,7 +36,7 @@ Ongoing project aiming to learn DirectX 12 on my own.
 
 # Deep Learning Project
 
-<a href="username.github.io/folder/LossyCompressionPoster.pdf" target="_blank">PDF.</a>
+<a href="lsenecal.github.io/blob/master/LossyCompressionPoster.pdf" target="_blank">PDF.</a>
 
 # Unity Projects
 

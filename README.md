@@ -54,7 +54,9 @@ Objectives of this assignment : To code from scratch an engine that enables the 
 
 ## Deep Learning Project
 
-<a href="LossyCompressionPoster.pdf" target="_blank">PDF.</a>
+<img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/LossyCompressionPoster-1.png?raw=true" alt="" width="600"/>
+
+<a href="LossyCompressionPoster.pdf" target="_blank">PDF</a>
 
 ## Ray traycing
 
@@ -73,7 +75,6 @@ This project initially started as a school assignment that I have decided to adv
 [Code (zip)](https://github.com/lsenecal/lsenecal.github.io/raw/master/Cpp/Bezier.tar.xz)
 
 [Code (github)](https://github.com/lsenecal/lsenecal.github.io/tree/master/Cpp/ProjectDX12/ProjectDX12)
-
 
 
 # Scientific paper

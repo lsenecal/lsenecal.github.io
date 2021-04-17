@@ -4,7 +4,7 @@
 
 Ongoing project aiming to learn DirectX 12 from scratch on my own and working with PBR.
 
-![](https://github.com/lsenecal/lsenecal.github.io/blob/master/DirectX12Gif.gif)
+![](DirectX12Gif.gif)
 
 [Code](https://github.com/lsenecal/lsenecal.github.io/raw/master/Cpp/ProjectDX12.zip)
 

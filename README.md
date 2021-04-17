@@ -22,6 +22,8 @@ The idea behind this small game was a platform game with an Indiana Jones vibe w
 ### Dice Tower
 I wanted a small project that could be ended quickly. As a fan of tabletop rpg, dice towers are often used, and I thought it could be nice to create one in Unity. This project helped me to learn a little of ProBuilder.
 
+![](https://www.youtube.com/embed/xOFWO-1uAKo)
+
 <iframe width="640" height="360" src="https://www.youtube.com/embed/xOFWO-1uAKo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/Unity/DiceTower.zip)

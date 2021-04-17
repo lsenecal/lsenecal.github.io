@@ -1,8 +1,8 @@
 # Personal project
 
-## DirectX12
+## DirectX12 and PBR
 
-Ongoing project aiming to learn DirectX 12 on my own.
+Ongoing project aiming to learn DirectX 12 on my own and working with PBR.
 
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/Cpp/Screenshots/DX12Gif.gif?raw=true" alt="" width="600"/>
 

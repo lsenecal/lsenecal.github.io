@@ -2,7 +2,7 @@
 
 ## DirectX12 and PBR
 
-Ongoing project aiming to learn DirectX 12 on my own and working with PBR.
+Ongoing project aiming to learn DirectX 12 from scratch on my own and working with PBR.
 
 <img src="https://github.com/lsenecal/lsenecal.github.io/blob/master/DirectX12Gif.gif" alt="" width="600"/>
 

@@ -31,7 +31,7 @@ This is a really early project of a strategy wargame such as Warhammer. This dem
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/dOwHmUhKjqU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Download](Unity/StrategyTest.zip)
+[Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/Unity/StrategyTest.zip)
 
 ### CrossLine
 

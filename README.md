@@ -6,7 +6,7 @@ Ongoing project aiming to learn DirectX 12 from scratch on my own and working wi
 
 ![](DirectX12Gif.gif)
 
-[Code](https://github.com/lsenecal/lsenecal.github.io/raw/master/Cpp/ProjectDX12.zip)
+[Code](ProjectDX12.zip)
 
 ## Unity projects
 

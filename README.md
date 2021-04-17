@@ -8,7 +8,7 @@ Ongoing project aiming to learn DirectX 12 from scratch on my own and working wi
 
 [Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/Cpp/ProjectDX12.zip)
 
-[Code](Cpp/ProjectDX12/ProjectDX12)
+[Code on Github](Cpp/ProjectDX12/ProjectDX12)
 
 ## Unity projects
 

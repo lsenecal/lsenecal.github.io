@@ -6,7 +6,8 @@ Ongoing project aiming to learn DirectX 12 from scratch on my own and working wi
 
 ![](DirectX12Gif.gif)
 
-[Code](Cpp/ProjectDX12.zip)
+[Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/Cpp/ProjectDX12.zip)
+[Code] (Cpp/DirectX12)
 
 ## Unity projects
 
@@ -17,14 +18,14 @@ The idea behind this small game was a platform game with an Indiana Jones vibe w
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/wYL55fzgMjg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Download](Unity/Dungeon_Plateform.zip)
+[Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/Unity/Dungeon_Plateform.zip)
 
 ### Dice Tower
 I wanted a small project that could be ended quickly. As a fan of tabletop rpg, dice towers are often used, and I thought it could be nice to create one in Unity. This project helped me to learn a little of ProBuilder.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/xOFWO-1uAKo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Download](Unity/DiceTower.zip)
+[Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/Unity/DiceTower.zip)
 
 ### Strategy Test
 This is a really early project of a strategy wargame such as Warhammer. This demo mainly serves as a test place.

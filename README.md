@@ -2,7 +2,7 @@
 
 ## Unreal plugin for the software Instant Terra
 
-https://instantterrapro.wysilab.com/wp-content/uploads/2021/06/Unreal-engine-plugin-instant-terra-768x369.jpg
+<img src="https://instantterrapro.wysilab.com/wp-content/uploads/2021/06/Unreal-engine-plugin-instant-terra-768x369.jpg?raw=true" alt="" width="600"/>
 
 https://wysilab.com/Features/Features-unreal-engine-plugin.html
 

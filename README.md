@@ -8,11 +8,11 @@ As part of Wysilab programmer team, I have developed an Unreal Engine plugin for
 
 [https://wysilab.com/Features/Features-unreal-engine-plugin.html](https://wysilab.com/Features/Features-unreal-engine-plugin.html)
 
-## PBR and material Support - Shadow
+## PBR and material support - Shadows
 
-As part of Wysilab programmer team, I helped implementing sahdow mapping and PBR material to improve terrain rednering.
+As part of Wysilab programmer team, I helped implementing shadow mapping and PBR material support to improve terrains rendering.
 
-Yet to be relesae.
+Yet to be released.
 
 # Personal projects
 

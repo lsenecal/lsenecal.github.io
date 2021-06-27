@@ -4,7 +4,7 @@
 
 <img src="https://instantterrapro.wysilab.com/wp-content/uploads/2021/06/Unreal-engine-plugin-instant-terra-768x369.jpg?raw=true" alt="" width="600"/>
 
-[test](https://wysilab.com/Features/Features-unreal-engine-plugin.html)
+[https://wysilab.com/Features/Features-unreal-engine-plugin.html](https://wysilab.com/Features/Features-unreal-engine-plugin.html)
 
 
 # Personal projects
@@ -91,4 +91,4 @@ This project initially started as a school assignment that I have decided to adv
 # Scientific paper
 
 The formation of Jupiter by hybrid pebble-planetesimal accretion : 
-https://arxiv.org/abs/1809.05383
+[https://arxiv.org/abs/1809.05383](https://arxiv.org/abs/1809.05383)

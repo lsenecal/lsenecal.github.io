@@ -1,12 +1,12 @@
 # Site navigation links
 - title: Work
-  url: /work/
+  url: /docs/work/
 
 - title: Personal projects
-  url: /personal/
+  url: /docs/personal/
 
 - title: University projects
-  url: /university/
+  url: /docs/university/
 
 - title: Publications
-  url: /publications/
+  url: /docs/publications/

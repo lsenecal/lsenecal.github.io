@@ -1,0 +1,12 @@
+# Site navigation links
+- title: Work
+  url: /work/
+
+- title: Personal projects
+  url: /personal/
+
+- title: University projects
+  url: /university/
+
+- title: Publications
+  url: /publications/

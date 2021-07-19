@@ -2,3 +2,5 @@ title: Luc Senecal
 description: Portfolio
 
 theme: jekyll-theme-slate
+plugins:
+- jekyll-tabs

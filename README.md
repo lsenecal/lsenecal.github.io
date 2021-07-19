@@ -1,17 +1,3 @@
-{% codetabs %}
-
-{% codetab C %}
-```c
-printf("Hello, world!");
-```
-{% endcodetab %}
-
-{% codetab Go %}
-```go
-fmt.Println("Hello, world!")
-```
-{% endcodetab %}
-
 # Work projects
 
 ## Unreal plugin for the software Instant Terra

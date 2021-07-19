@@ -1,3 +1,20 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  {% include head.html %}
+  <body>
+      {{ content }}
+    <script src="/js/tabs.js"></script>
+  </body>
+</html>
+
+{% tabs log %}
+
+{% tab log php %}
+```php
+var_dump('hello');
+```
+{% endtab %}
+
 # Work projects
 
 ## Unreal plugin for the software Instant Terra

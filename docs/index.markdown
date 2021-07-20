@@ -7,9 +7,9 @@ Welcome to my GitHub page !
 
 I’m Luc, C++ programmer and video games player.
 
-I used to work in computational physics but recently refocus my attention to game programming.
+I used to work in computational physics but have recently refocused my attention to game programming.
 
-I didn’t leave everythings behind as I am interrrested in physics based rendering and collisions detection.
+I haven't left everything behind because I'm interested in physics-based rendering and collision detection.
 
 Hope you will find what you seek here.
 

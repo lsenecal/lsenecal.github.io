@@ -21,12 +21,15 @@
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-		  
-        </header>
-		{% include _navigation.html %}
 	
-	<!-- Use any element to open the sidenav -->
-	<span style="font-size:30px;cursor:pointer;color:white" onclick="openNav()">&#9776; Menu</span>
+			<!-- Use any element to open the sidenav -->
+			<span style="font-size:30px;cursor:pointer;color:white;" onclick="openNav()">&#9776; Menu</span>
+	
+		</header>
+		
+		{% include _navigation.html %}  
+        
+	
 	
 	<script>
 		function openNav() {

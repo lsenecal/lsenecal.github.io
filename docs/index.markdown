@@ -5,11 +5,11 @@ title: Home
 
 Welcome to my GitHub page !
 
-I'm Luc, C++ programmer and video game player.
+I’m Luc, C++ programmer and video games player.
 
-I used to work in computational physics but refocus my attention to game programming. 
+I used to work in computational physics but recently refocus my attention to game programming.
 
-I didn't leave everythings behind as I am interrrested in PBR rendering and collisions detection.
+I didn’t leave everythings behind as I am interrrested in physics based rendering and collisions detection.
 
 Hope you will find what you seek here.
 

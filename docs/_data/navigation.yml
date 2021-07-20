@@ -1,5 +1,8 @@
 # Site navigation links
-- title: Work
+- title: Home
+  url: /
+
+- title: Professional
   url: /work.html
 
 - title: Personal projects

@@ -1,14 +1,16 @@
+<link rel="stylesheet" href="css/custom.css">
+
 <div class="navigation-wrapper">
-	<div class="top-navigation">
+	<div class="sidenav">
 		<nav role="navigation" id="site-nav" class="nav">
-		    <ul>
+		    <ul style="list-style-type:none;">
 		        {% for link in site.data.navigation %}
 				    {% if link.url contains 'http' %}
 				        {% assign domain = '' %}
 				        {% else %}
 				        {% assign domain = site.github.url %}
 				    {% endif %}
-				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+				    <li style="display: inline;font-size: x-large;background-color: blue"><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 				{% endfor %}
 		    </ul>
 		</nav>

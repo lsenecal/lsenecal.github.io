@@ -5,7 +5,7 @@ title: Personal projects
 
 # DirectX12 and PBR
 
-Ongoing project aiming to learn DirectX 12 from scratch on my own and working with PBR.
+Ongoing project aiming to learn DirectX 12 from scratch on my own and working with PBR rendering.
 
 ![](DirectX12Gif.gif)
 

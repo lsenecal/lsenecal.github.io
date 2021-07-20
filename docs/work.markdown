@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Work
+title: Professional contributions
 ---
 
 # Unreal plugin for the software Instant Terra

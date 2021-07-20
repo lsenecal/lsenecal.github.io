@@ -1,18 +1,17 @@
 <link rel="stylesheet" href="css/custom.css">
 
 <div class="navigation-wrapper">
-	<div class="sidenav">
+	<div id="mySidenav" class="sidenav">
 		<nav role="navigation" id="site-nav" class="nav">
-		    <ul style="list-style-type:none;">
+		<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 		        {% for link in site.data.navigation %}
 				    {% if link.url contains 'http' %}
 				        {% assign domain = '' %}
 				        {% else %}
 				        {% assign domain = site.github.url %}
 				    {% endif %}
-				    <li style="display: inline;font-size: x-large;background-color: blue"><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+					<a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
 				{% endfor %}
-		    </ul>
 		</nav>
 	</div><!-- /.top-navigation -->
 </div><!-- /.navigation-wrapper -->

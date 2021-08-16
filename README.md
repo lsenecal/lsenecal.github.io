@@ -8,6 +8,12 @@ As part of Wysilab programmer team, I have developed an Unreal Engine plugin for
 
 [https://wysilab.com/Features/Features-unreal-engine-plugin.html](https://wysilab.com/Features/Features-unreal-engine-plugin.html)
 
+##Houdini bridge with Instant Terra
+
+<img src="https://instantterrapro.wysilab.com/wp-content/uploads/2021/08/bridge-to-houdini-instant-terra-WP642.png?raw=true" alt="" width="600"/>
+
+[https://www.wysilab.com/Features/Features-houdini-bridge.html](https://www.wysilab.com/Features/Features-houdini-bridge.html)
+
 ## PBR and material support - Shadows
 
 As part of Wysilab programmer team, I helped implementing shadow mapping and PBR material support to improve terrains rendering.

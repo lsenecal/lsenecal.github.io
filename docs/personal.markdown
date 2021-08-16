@@ -7,7 +7,7 @@ title: Personal projects
 
 Ongoing project aiming to learn DirectX 12 from scratch on my own and working with PBR rendering.
 
-![](DirectX12Gif.gif)
+![](https://github.com/lsenecal/lsenecal.github.io/raw/master/DirectX12Gif.gif)
 
 [Download](https://github.com/lsenecal/lsenecal.github.io/raw/master/Cpp/ProjectDX12.zip)
 

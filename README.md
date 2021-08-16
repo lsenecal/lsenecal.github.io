@@ -8,7 +8,9 @@ As part of Wysilab programmer team, I have developed an Unreal Engine plugin for
 
 [https://wysilab.com/Features/Features-unreal-engine-plugin.html](https://wysilab.com/Features/Features-unreal-engine-plugin.html)
 
-##Houdini bridge with Instant Terra
+## Houdini bridge with Instant Terra
+
+I'va also worked on an Houdini plugin to ease terrain transfer.
 
 <img src="https://instantterrapro.wysilab.com/wp-content/uploads/2021/08/bridge-to-houdini-instant-terra-WP642.png?raw=true" alt="" width="600"/>
 

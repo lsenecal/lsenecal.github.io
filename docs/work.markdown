@@ -23,4 +23,4 @@ I'va also worked on an Houdini plugin to ease terrain transfer.
 
 As part of Wysilab programmer team, I helped implementing shadow mapping and PBR material support to improve terrains rendering.
 
-Yet to be released.
+[Release 2.4](https://instantterrapro.wysilab.com/instant-terra-releases/instant-terra-2-4/)
